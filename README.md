@@ -1,9 +1,9 @@
 ## Hi there 👋
-#### I have some personal projects on here and larger projects on Jetbrains Space. I prefer using all things Jetbrains 😉
+#### I have some personal projects on here and larger projects on Bitbucket and GitLab. I prefer using all things Jetbrains 😉
 
-🔭 I'm currently working on planning a cross-platform application.
+🔭 I'm currently working on cross-platform application using Flutter.
 
-💻 I manage 2 live web applications and 5 personal web applications, all used by many users.
+💻 I manage 2 live web applications and 10 personal web applications, all used by many users.
 
 🐳 I prefer containerization of my applications using Docker and my own custom images, making them sharable and fast.
 
